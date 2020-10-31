@@ -1,0 +1,9 @@
+PixelOS 
+31 Octobet 2020
+------------------
+Updated Urynx Gcam
+Added R Style Notification
+Changed Raise To Wake Implementation
+Powerhint tuned for sm6150
+Changed Kernel to CatKernel(Fork of Arian's Kernel)
+Added Kcal Support
