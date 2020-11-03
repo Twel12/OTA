@@ -1,8 +1,10 @@
 PixelOS Plus
 Redmi K20/ MI 9T
-Changelog - 9 October 2020
+Changelog - 3 November 2020
 -----------------------------------------------------
-Added APP LOCK
-Added R Stlye Notifications
-Original PE Like Volume Panel
-Initial Build
+Updated Urynx Gcam
+Changed Raise To Wake Implementation
+Powerhint tuned for sm6150
+Changed Kernel to CatKernel(Fork of Arian's Kernel)
+Added Kcal Support
+Added Toggle for Fingerprint Recognising Animation
