@@ -1,16 +1,23 @@
 {
-"error":false,
-"filename": PixelOS_davinci-10.0-20201031-0502.zip,
-"datetime": 1604120291,
-"size":1383209660,
-"url":"https://sourceforge.net/projects/pixelosdavinci/files/PixelOS_Davinci/PixelOS_davinci-10.0-20201031-0502.zip/download",
-"filehash":"850e86f87da9564719a98508671a4a63",
-"version": "ten",
-"id": "850e86f87da9564719a98508671a4a63",
-"donate_url":"" ,
-"website_url":"https://sourceforge.net/projects/pixelosdavinci/files/PixelOS_Davinci/",
-"news_url":"https:\/\/t.me\/CatPower12",
-"maintainer":"Twel12",
-"maintainer_url":"https:\/\/t.me/real_twel12",
-"forum_url":""
-} 
+   "error":false,
+   "version":"eleven",
+   "is_incremental":false,
+   "has_incremental":false,
+   "filename":"PixelOS_davinci-10.0-20201031-0502.zip",
+   "datetime":1807779920,
+   "size":1383209660,
+   "url":"https://sourceforge.net/projects/pixelosdavinci/files/PixelOS_Davinci/PixelOS_davinci-10.0-20201031-0502.zip/download",
+   "filehash":"850e86f87da9564719a98508671a4a63",
+   "id":"850e86f87da9564719a98508671a4a63",
+   "maintainers":[
+      {
+         "main_maintainer":false,
+         "github_username":"Twel12",
+         "name":"Twel12"
+      },
+   ],
+   "donate_url":"",
+   "website_url":"https://sourceforge.net/projects/pixelosdavinci/files/PixelOS_Davinci/",
+   "news_url":"https:\/\/t.me\/fake_twel12",
+   "forum_url":"https:\/\/t.me\/catpower12"
+}
