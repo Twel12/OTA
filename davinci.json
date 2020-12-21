@@ -11,10 +11,15 @@
    "id":"d5b578bed1a104a0bdb790a81d755c79",
    "maintainers":[
       {
-         "main_maintainer":true,
+         "main_maintainer":false,
          "github_username":"adarshgrewal",
          "name":"Adarsh Grewal"
       },
+      {
+         "main_maintainer":false,
+         "github_username":"noonlord",
+         "name":"Yusuf Vardar"
+      }
    ],
    "donate_url":"https:\/\/paypal.me\/adarshgrewal",
    "website_url":"https:\/\/t.me\/yusufbuilds",
