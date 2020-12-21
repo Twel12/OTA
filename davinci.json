@@ -11,7 +11,7 @@
    "id":"d5b578bed1a104a0bdb790a81d755c79",
    "maintainers":[
       {
-         "main_maintainer":false,
+         "main_maintainer":true,
          "github_username":"adarshgrewal",
          "name":"Adarsh Grewal"
       },
