@@ -1,23 +1,17 @@
 {
-   "error":false,
-   "version":"eleven",
-   "is_incremental":false,
-   "has_incremental":false,
-   "filename":"PixelOS_davinci-10.0-20201031-0502.zip",
-   "datetime":1507779920,
-   "size":1383209660,
-   "url":"https://sourceforge.net/projects/pixelosdavinci/files/PixelOS_Davinci/PixelOS_davinci-10.0-20201031-0502.zip/download",
-   "filehash":"850e86f87da9564719a98508671a4a63",
-   "id":"850e86f87da9564719a98508671a4a63",
-   "maintainers":[
-      {
-         "main_maintainer":false,
-         "github_username":"Twel12",
-         "name":"Twel12"
-      },
-   ],
-   "donate_url":"",
-   "website_url":"https://sourceforge.net/projects/pixelosdavinci/files/PixelOS_Davinci/",
-   "news_url":"https:\/\/t.me\/fake_twel12",
-   "forum_url":"https:\/\/t.me\/catpower12"
+   "datetime": "1609770516",
+   "donate_url": "",
+   "error": "false",
+   "filehash": "72130b6d06145bb7310b7d2ec25b1c53",
+   "filename": "EvolutionX_5.2_davinci-11-20210104-1428-OFFICIAL.zip",
+   "forum_url": "https://forum.xda-developers.com/mi-9t/development/evolution-x-5-1-mi-9t-redmi-k20-davinci-t4189391",
+   "id": "5b74ad80842b872e4f1801fc5074606258c675b5fd593dbceb559141568f1f01",
+   "maintainer": "Twel12",
+   "maintainer_url": "t.me/real_twel12",
+   "news_url": "https://t.me/EvolutionXOfficial",
+   "size": 1914794837,
+   "telegram_username": "real_twel12",
+   "url": "https://sourceforge.net/projects/evolution-x/files/davinci/EvolutionX_5.2_davinci-11-20210104-1428-OFFICIAL.zip/download",
+   "version": "Eleven",
+   "website_url": "t.me/CatPower12"
 }
